@@ -10,4 +10,4 @@ This bot greets the new users of the server. *it's basically this*
 3. In the side menu, go to the option *Bot*, click in Add Bot.
 4. After created the bot, click in "Click to Reveal Token" and copy the token.
 4. Go to the file auth.json and replace *TOKEN-HERE* for your token.
-5. Ùse the command `node bot.js` to start the bot.
+5. Use the command `node bot.js` to start the bot.
